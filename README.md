@@ -1,2 +1,2 @@
-# SOAeg
-SOA examples
+# Ejemplos de Pruebas usando SOA
+## Servicio SOA  
